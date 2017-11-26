@@ -1,0 +1,2 @@
+# Ruby-on-Rails---Website-Development
+Website is developed using Rails 5.1.1  This is an E-commerce website featuring products of Mobile phones and laptops.  -Products data is uploaded using seed.db. The pages 'About us', 'Careers', 'Contact us' are static HTML pages integrated in Rails.  Many features will be added in future to replicate a sophisticated E-commerce sites which can be deployed in real world. The MVC architecture of Rails is implemented. You can refer Project Report document for output screenshots.
